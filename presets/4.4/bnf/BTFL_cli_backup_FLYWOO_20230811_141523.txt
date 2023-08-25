@@ -1,3 +1,8 @@
+#$ TITLE: Flywoo Firefly Nano Baby v2 CLI Backup
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: BNF
+#$ STATUS: COMMUNITY
+
 defaults nosave
 
 
